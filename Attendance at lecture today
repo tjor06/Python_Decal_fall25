@@ -1,0 +1,23 @@
+
+print("I went to lecture on monday sept. 8")
+ #Due: September 10th at 3:59 PM
+#Questions:
+#1) What are the three commands you need to call to save your work with git?
+# git commit, git add ., git push
+# 2) What do each of the three commands do?
+# Save it 
+# 3) What is a staging area?
+#When you do git add, it puts your file in a temporary spot before being commited
+# 4) What does it mean for Git to be “tracking” files?
+# following changex
+# 5) Summarize the lecture in 2-3 sentences. What were the main take aways?
+#the main takeaway was that I need to pay attention to the difference between m and n when trying to set up github
+# 6) Describe what you are still confused about in 2-3 sentences. Include any questions you
+# have. I still don't fully understand why the terminal is so key.
+# Assignments:
+# 1) Copy and paste your answer to the practice question from the lecture. Don’t forget to
+# include your test.py script. Didn't get it
+# 2) Take a screenshot of calling python3 test.py on your command line. We didn't get there
+# 3) Take a screenshot of calling git remote -v in your yourname repository on the
+# command line. We also didn't do this in class yet
+
